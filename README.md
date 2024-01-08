@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DanielOwenRaine
+- 👋 Hi, my name is daniel Daniel
 - 👀 I’m interested in cryptocurrency, web development, systems development, networking and infrastructure.
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on a wide range of projects.
+- 💞️ I’m looking to collaborate on a wide range of projects. I am currently working on an opensource Server system in Rust.
 - 📫 How to reach me... Send me a message on here or Instagram: danielowenraine.
 
 <!---
